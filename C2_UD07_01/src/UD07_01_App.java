@@ -27,6 +27,7 @@ public class UD07_01_App {
 			}
 		}
 		
+		sc.close();
 		mostrarDatos(alumnosNotas);
 	}
 	
