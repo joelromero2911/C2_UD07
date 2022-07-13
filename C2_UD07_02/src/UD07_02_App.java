@@ -49,7 +49,6 @@ public class UD07_02_App {
 	
 	public static Hashtable<String, Integer> hacerCompra(Hashtable<String, Integer> carrito, Hashtable<String, Hashtable<String, Float>> listaProductos, Scanner sc){
 		
-//		String resp = "";
 		String producto = "";
 		
 		System.out.println("\nEscribe \"hecho\" cuando hayas acabado.");
